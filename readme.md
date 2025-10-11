@@ -21,7 +21,7 @@ embedded_example_file: "examples/Grove_Infrared_Receiver_minimal/Grove_Infrared_
 
 # Infrarot-Empfänger
 
-![Infrarot-Empfänger](16_infrarot_empfaenger.jpg)
+![Infrarot-Empfänger](./16_infrarot_empfaenger.jpg)
 
 ## Beschreibung
 Der Infrarot-Empfänger wird zu Empfangen von Signalen über infrarotes Licht eingesetzt. Als Partner kommt meist der Infrarot-Sender von Grove zum Einsatz, der die Signale generiert. Die maximale Reichweite beträgt ca. 10m. Der Empfänger kann direkt oder mithilfe des Grove Shields an einen Arduino oder Raspberry Pi angeschlossen werden. Er wird hierbei über einen digitalen Pin angesteuert.
