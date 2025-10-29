@@ -15,9 +15,6 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-Grove_Infrared_R
 repo_prefix: "mks"
 repo_part: "Grove_Infrared_Receiver"
 embedded_example_file: "examples/Grove_Infrared_Receiver_minimal/Grove_Infrared_Receiver_minimal.ino"
-title: 'Infrarot-Empfänger'
-status: 'active'
-difficulty: 'expert'
 ---
 
 
